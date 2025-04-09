@@ -5,7 +5,9 @@ public class add {
             int b = 10;
             int c = 15;
             int sum = a + b + c;
+            int sub = a - b - c;
             System.out.println("The sum is: " + sum);
+            System.out.println("The sub is: " + sub);
         }
     }
 
